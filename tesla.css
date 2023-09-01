@@ -1,0 +1,148 @@
+body{
+    color: black;
+    margin: 0;
+    font-family: 'M PLUS 1', sans-serif;
+
+}
+
+header a.logo{
+    color: black;
+    height: 10px;
+    width: 100px;
+    position: fixed;
+    z-index: 1;
+}
+
+header nav a{
+    padding: 5px 10px;
+    text-decoration: none ;
+    
+    
+    
+    
+}
+.person:hover{
+    color: black;
+    background-color: white;
+    opacity: 90%;
+    border-radius: 2px;
+}
+.tds-icon-globe:hover{
+    color: black;
+    background-color: white;
+    opacity: 90%;
+    border-radius: 2px;
+}
+.icon:hover{
+    color:white;
+   
+}
+
+
+header nav.centerDesktop{
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 17px;
+}
+.centerDesktop:hover{
+    color: black;
+    background-color: white;
+    opacity: 90%;
+    border-radius: 2px;
+}
+
+
+header .block{
+    background-image: linear-gradient(to bottom right, #3e6ae1, black);
+    background-image: linear-gradient(to bottom black, red, yellow);
+    color: white;
+    margin: 0px;
+    width: 100%;
+    height: 42px;
+    padding-top: 15px;
+    margin-top: -20px;
+}
+.img-tes{
+    width: 120px;
+    height: 60px;
+    margin-left:54px;
+    margin-top: 30px;
+}
+section{
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    
+}
+.block:hover{
+    background: black;
+}
+section .content{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    color: white;
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+     ;
+    
+}
+
+
+section h1{
+    font-size: 3rem;
+    font-family: 'M PLUS 1', sans-serif;
+    color: black;
+    font-weight: normal;
+    margin-top: -10px;
+    
+    
+}
+section .button a{
+    background-color: #eee;
+    color: black;
+    border-radius: 3px;
+    text-decoration: none;
+    font-size: 12px;
+    height: 67px;
+    padding-right: 141px;
+    padding-top: 145px;
+    padding-bottom: 8px;
+    padding-top: 13px;
+    padding-left: 103px;
+    font-size:15px;
+    opacity: 70%;
+    margin-top: 300px;
+    font-family: 'M PLUS 1', sans-serif;
+    margin-left: 12px
+}
+
+
+header nav.Leftdesktop{
+    color: black;
+    text-decoration: none;
+    margin-top: 17px; 
+}
+header nav.info{
+    color: black;
+  
+    text-decoration: none;
+    margin-left: 400px;
+    
+    
+}
+section .p{
+    padding-top: 15pxpx;
+}
+.button{
+    padding-top: 420px;
+    opacity: 98%;
+} 
+
+.tds-icon {
+    width: 120px;
+    height: 60px;
+    margin-left:54px;
+    margin-top: 30px;
+}
